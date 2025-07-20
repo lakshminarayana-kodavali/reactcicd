@@ -2,7 +2,6 @@
   "name": "reactcicd",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://lakshminarayana-kodavali.github.io/reactcicd",
   "type": "module",
   "scripts": {
     "dev": "vite",
